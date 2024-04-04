@@ -1,0 +1,1 @@
+﻿INSERT INTO Hotel (FullName, BirthdayDate, ArrivalDate, DepartureDate, Status) VALUES (N'Буклов Евсей Евсеевич', N'02/02/2005', N'03/29/2024', N'04/05/2024',N'Свободные')
